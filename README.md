@@ -19,6 +19,8 @@ The candidates can fill the forms given to them which have 15+ entries and on th
 
 -Ajax
 
+Validating user form data using JavaScript. Used Ajax POST and GET method to request data from the server. Modularization of code by creating controller , repository and models. Used Java Servlets and JSP to achieve client side functionalities. Created databases according to the requirements by using MySQL Workbench.
+
 ![image](https://user-images.githubusercontent.com/104477719/216512151-242dc5a4-9bd5-4563-9195-d8623eef3813.png)
 ![image](https://user-images.githubusercontent.com/104477719/216512202-c4759c5e-5b1b-40ba-b927-7415925e33eb.png)
 ![image](https://user-images.githubusercontent.com/104477719/216512351-ffa0345f-5f0b-4aa6-adca-87954fba347f.png)
