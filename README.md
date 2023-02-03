@@ -1,6 +1,6 @@
 # job-eligibility
 A website to make the recruiting process much faster and easier.
-The candidates can fill the forms given to them which have 15+ entries and on the basis of the information given the recruiters can filter the desired canditated.
+The candidates can fill the forms given to them which have 15+ entries and on the basis of the information given the recruiters can filter the desired canditates.
 ## Technologies used:
 ### Frontend
 -HTML
